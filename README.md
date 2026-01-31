@@ -2,10 +2,6 @@
 
 Welcome to **AIHeal**, a decentralized AI-powered healthcare platform built on **Aleo** — putting patients back in control of their medical data with encrypted *Intelligent Health NFTs*, real-time AI diagnostics, and verifiable sharing with doctors — all protected by zero-knowledge privacy.
 
-**Repository:** [https://github.com/Wadill/Synapse](https://github.com/Wadill/Synapse)  
-*(Note: Repo name will be updated to AIHeal soon)*  
-**Live Demo:** https://synapse-puce-iota.vercel.app/  
-*(Demo will be migrated to AIHeal domain/branding)*
 
 ## LIVE on MAINNET!  
 Contract: 0x1F0441f4aD7ddAf44187F780afc6AacdC270Bba7
