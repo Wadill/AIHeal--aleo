@@ -15,7 +15,7 @@ export default function Home() {
           transition={{ duration: 0.8 }}
           className="text-5xl md:text-6xl font-bold text-gray-900 mb-4"
         >
-          Welcome to Synapse
+          Welcome to AIHeal
         </motion.h1>
         <motion.p
           initial={{ opacity: 0 }}
@@ -112,7 +112,7 @@ export default function Home() {
 
       {/* Footer */}
       <footer className="bg-gray-800 text-white text-center py-6">
-        <p>&copy; {new Date().getFullYear()} Synapse </p>
+        <p>&copy; {new Date().getFullYear()} AIHeal </p>
         
       </footer>
     </div>

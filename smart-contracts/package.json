@@ -1,7 +1,7 @@
 {
   "name": "contracts",
   "version": "1.0.0",
-  "description": "Smart contracts for Synapse",
+  "description": "Smart contracts for aiheal",
   "main": "index.js",
   "scripts": {
     "compile": "hardhat compile",
