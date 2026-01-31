@@ -153,7 +153,7 @@ Aleo is one of the strongest platforms for real consumer health applications tha
 
 ```bash
 git clone https://github.com/Wadill/AIHeal.git
-cd Synapse
+cd AIHeal
 npm install
 
 cp .env.example .env.local
